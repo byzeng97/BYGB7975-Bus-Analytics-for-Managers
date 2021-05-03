@@ -24,5 +24,5 @@
 
 ## Statistical Model and Logistic Regression
 
-Statistical Model: One Way ANOVA
-Machine Learning: Logistic Regression
+1. Statistical Model: One Way ANOVA
+2. Machine Learning: Logistic Regression
