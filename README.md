@@ -1,5 +1,5 @@
 # BYGB7975-Bus-Analytics-for-Managers
-## Analytics Charrts 
+## Analytics Charts 
 1. Bar Chart for Youth Smoking Frequency 
 2. Gender-Grouped Bar Chart of 2 Types of Youth Tobacco Smokers in 23 States
 3. Pie Chart of 3 Classes in Smoking Type
